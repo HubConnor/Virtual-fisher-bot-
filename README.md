@@ -1,14 +1,8 @@
-A simple tool to farm the Virtual Fisher bot on Discord made in Visual Basic 2010
-Delay is set to simulate typing to stop you from getting banned from the Virtual Fisher bot and or Discord server. 
+Automate the Virtual Fisher bot on Discord. 
+Delay is to stop you from getting banned. 
 Warning! If ran for to long you may get blacklisted from the bot. 
 
-
-
-
-
-
-
-Public Class Form1
+	Public Class Form1
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
         Timer1.Enabled = True
