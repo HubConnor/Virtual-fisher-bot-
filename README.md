@@ -1,4 +1,6 @@
-[img]https://i.imgur.com/eH00Iyp.png[/img]
+A simple tool to farm the Virtual Fisher bot on Discord made in Visual Basic 2010
+Delay is set to simulate typing to stop you from getting banned from the Virtual Fisher bot and or Discord server. 
+Warning! If ran for to long you may get blacklisted from the bot. 
 
 
 Public Class Form1
