@@ -1,6 +1,4 @@
 Automate the Virtual Fisher bot on Discord. 
-Delay is to stop you from getting banned. 
-Warning! If ran for to long you may get blacklisted from the bot. 
 
 	Public Class Form1
 
